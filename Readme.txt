@@ -1,10 +1,7 @@
 Hi how are you?
-doing good
+doing good,how are.
 hyderabad
 whatspp
 google
 facebook
-twitter
-IMPS
-NEFT
-RTGS
+twitter are updated
